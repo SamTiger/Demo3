@@ -91,6 +91,6 @@ window.onload = function(){
 
     /*main-li-style*/	
 	/*for(var i = 0;i<aDayLi.length;i++){
-		//url()中加号表示连接，变量是动态的，变成化的，用加号编译器才认为后面的是变量（或变量结束）
+		//url()中加号表示连接，变量是动态的，用加号编译器才认为后面的是变量（或变量结束）
 		aDayLi[i].style.background = 'url('+arrImg[i]+') no-repeat 3px center';
 	}*/
